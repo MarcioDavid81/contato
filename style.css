@@ -1,0 +1,23 @@
+@metacharset = "utf-8";
+body{
+    background-color: rgb(241, 247, 238);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+h1{
+    text-decoration: underline;
+}
+ul{box-sizing: border-box;
+    border: 1px solid black;
+    text-align: left;
+    background-color: rgb(176, 190, 169);
+}
+a{text-decoration: none;}
+
+#a{background-color: rgb(176, 190, 169);
+    font-size: 12px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+#b{background-color: rgb(241, 247, 238);}
+img{ background-color: rgb(176, 190, 169)}
